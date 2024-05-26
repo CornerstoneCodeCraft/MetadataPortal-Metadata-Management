@@ -1,0 +1,5 @@
+The beta version uses the following technologies.
+- Adobe Flex 1.2 SDK
+- Java/Hibernate
+- HSQLDB Embedded database
+- Tomcat Server
